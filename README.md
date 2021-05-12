@@ -12,3 +12,5 @@ https://github.com/tirthajyoti/Data-science-best-resources
 https://github.com/FavioVazquez/ds-cheatsheets
 
 https://github.com/jonathan-bower/DataScienceResources
+
+https://github.com/datasciencemasters/go
