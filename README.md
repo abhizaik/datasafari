@@ -1,4 +1,4 @@
-# Learn_DS
+# Want to learn Data Science ?
 Repo to share knowledge and useful materials. 
 
 GitHub Repos
