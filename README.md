@@ -3,6 +3,8 @@ Repo to share knowledge and useful materials.
 
 GitHub Repos
 
+https://github.com/krypticmouse/ML-Self-Starter-Pack 
+
 https://github.com/devrc1234/awesome-datascience
 
 https://github.com/MrMimic/data-scientist-roadmap
