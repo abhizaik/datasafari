@@ -16,3 +16,5 @@ https://github.com/FavioVazquez/ds-cheatsheets
 https://github.com/jonathan-bower/DataScienceResources
 
 https://github.com/datasciencemasters/go
+
+https://github.com/Mohitkr95/Best-Data-Science-Resources
