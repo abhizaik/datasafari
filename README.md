@@ -18,3 +18,5 @@ https://github.com/jonathan-bower/DataScienceResources
 https://github.com/datasciencemasters/go
 
 https://github.com/Mohitkr95/Best-Data-Science-Resources
+
+Best coding practices : https://github.com/codebasics/py/blob/master/TechTopics/CodingBestPractices/coding_best_practices.md
