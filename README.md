@@ -1,6 +1,6 @@
 ## Want to learn Data Science ?
 
-Repo to share knowledge and useful materials. 
+This is a repo to share knowledge and other useful materials related to data science. 
 
 ## GitHub repos with resources
 
